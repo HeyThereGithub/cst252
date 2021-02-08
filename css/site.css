@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 36pt;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: monospace;
+  color: white;
+}
+
+h2 {
+  font-size: 24pt;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: monospace;
+  color: white;
+}
+
+div.introduction {
+  background-color: gray;
+}
+
+p {
+  font-size: 18pt;
+  color: white;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  font-family: monospace;
+}
+
+img {
+  width: 400px;
+  float: left;
+  background-color: gray;
+  margin: 10px 10px 10px 10px;
+}
+
+a {
+  font-family: monospace;
+  color: white;
+  text-decoration: none;
+  text-align: right;
+}
+
+div.labs {
+  text-align: center;
+}
