@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+  font-size: 40pt;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 16pt;
+}
+
+div#floated {
+  text-align: center;
+}
