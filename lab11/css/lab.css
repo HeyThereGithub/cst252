@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  font-size: 40pt;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 16pt;
+}
+
+div#floated {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+  color: black;
+}
+
+script {
+  color: black;
+}
+
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#output {
+  border: 4px black dotted;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 5px 5px black;
+}
